@@ -11,6 +11,10 @@ This application uses python to create a simple application to create an itemize
 python3 order_system.py
 ```
 
+## Example video
+
+https://drive.google.com/file/d/1tJzbz3JlHOrxUacNZxipVIbwKmgoOxfg/view?usp=sharing
+
 ## Contributing
 
 Pull requests are welcome. For major changes, please open an issue first
